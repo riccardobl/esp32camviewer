@@ -1,0 +1,1 @@
+A web server that serves a video stream from an ESP32 Cam using the example ESP32 Cam sketch, without overloading it.
